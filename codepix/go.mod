@@ -1,4 +1,4 @@
-module github.com/codeedu/imersao/codepix-go
+module github.com/FernandoCostaB/imersao-fullstack-fullcycle/codepix
 
 go 1.15
 
@@ -17,7 +17,5 @@ require (
 	github.com/stretchr/testify v1.7.0
 	google.golang.org/grpc v1.35.0
 	google.golang.org/protobuf v1.25.0
-	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gorm.io/driver/sqlite v1.1.4
-	gorm.io/gorm v1.20.12
 )
