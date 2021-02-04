@@ -16,9 +16,9 @@ limitations under the License.
 package cmd
 
 import (
-	"github.com/codeedu/imersao/codepix-go/domain/model"
-	"github.com/codeedu/imersao/codepix-go/infrastructure/db"
-	"github.com/codeedu/imersao/codepix-go/infrastructure/repository"
+	"github.com/FernandoCostaB/imersao-fullstack-fullcycle/codepix/domain/model"
+	"github.com/FernandoCostaB/imersao-fullstack-fullcycle/codepix/infrastructure/db"
+	"github.com/FernandoCostaB/imersao-fullstack-fullcycle/codepix/infrastructure/repository"
 	"github.com/spf13/cobra"
 	"os"
 )
